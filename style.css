@@ -12,4 +12,7 @@
     *{
         margin:0;
         padding:0;
+        .principao{
+            background-image: url("img/background.png")
+        }
     }
