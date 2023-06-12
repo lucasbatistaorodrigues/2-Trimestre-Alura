@@ -12,7 +12,16 @@
     *{
         margin:0;
         padding:0;
-        .principao{
-            background-image: url("img/background.png")
+        .principao  {
+            background-image: url("img/background.png");
+            background-repeat: no-repeat;
+            background-size: contain;
         }
+    }
+    .container {
+        height: 100vh;
+    }
+    .container__botao{
+        background-color: var(--botao-azul);
+        border-radius: 5px;
     }
