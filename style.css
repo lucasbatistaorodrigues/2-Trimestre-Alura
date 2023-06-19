@@ -13,8 +13,8 @@
         margin:0;
         padding:0;
     }
-.principao  {
-            background-image: url("img/Background.png");
+.principal  {
+            background-image: url("Background.png");
             background-repeat: no-repeat;
             background-size: contain;
         }
