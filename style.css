@@ -34,4 +34,5 @@
     }
    .botao_secundario {
     background-color: transparente;
+    border: px solid var(--branco-principal)
    }
