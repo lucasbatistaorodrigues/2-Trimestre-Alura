@@ -35,6 +35,7 @@
         padding: 1em;
         color: var(--branco-principal);
         display: block;
+        text-decoration: none;
     }
    .botao_secundario {
     background-color: transparente;
