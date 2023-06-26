@@ -40,3 +40,7 @@
     background-color: transparente;
     border: px solid var(--branco-principal)
    }
+
+.container__aviso{
+    font-size: 12px;
+}
