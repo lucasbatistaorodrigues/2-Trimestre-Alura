@@ -32,6 +32,6 @@
         color: var(--branco-principal);
         display: block;
     }
-   .botao_secundario (
+   .botao_secundario {
     background-color: transparente;
-   )
+   }
